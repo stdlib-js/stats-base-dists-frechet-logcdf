@@ -51,6 +51,12 @@ where `alpha > 0` is the shape, `s > 0` the scale, and `m` the location paramete
 npm install @stdlib/stats-base-dists-frechet-logcdf
 ```
 
+Alternatively,
+
+-   To load the package in a website via a `script` tag without installation and bundlers, use the [ES Module][es-module] available on the [`esm` branch][esm-url].
+-   If you are using Deno, visit the [`deno` branch][deno-url].
+-   For use in Observable, or in browser/node environments, use the [Universal Module Definition (UMD)][umd] build available on the [`umd` branch][umd-url].
+
 </section>
 
 <section class="usage">
@@ -237,6 +243,13 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [dependencies-url]: https://david-dm.org/stdlib-js/stats-base-dists-frechet-logcdf/main
 
 -->
+
+[umd]: https://github.com/umdjs/umd
+[es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+
+[deno-url]: https://github.com/stdlib-js/stats-base-dists-frechet-logcdf/tree/deno
+[umd-url]: https://github.com/stdlib-js/stats-base-dists-frechet-logcdf/tree/umd
+[esm-url]: https://github.com/stdlib-js/stats-base-dists-frechet-logcdf/tree/esm
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
