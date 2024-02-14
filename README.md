@@ -65,13 +65,13 @@ where `alpha > 0` is the shape, `s > 0` the scale, and `m` the location paramete
 ## Usage
 
 ```javascript
-import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-frechet-logcdf@deno/mod.js';
+import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-frechet-logcdf@v0.2.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-frechet-logcdf@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-frechet-logcdf@v0.2.0-deno/mod.js';
 ```
 
 #### logcdf( x, alpha, s, m )
@@ -168,7 +168,7 @@ y = mylogcdf( 7.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-frechet-logcdf@deno/mod.js';
+import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-frechet-logcdf@v0.2.0-deno/mod.js';
 
 var alpha;
 var m;
