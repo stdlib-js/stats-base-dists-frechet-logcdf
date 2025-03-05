@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-08)
+## Unreleased (2025-03-05)
+
+<section class="features">
+
+### Features
+
+-   [`a74d773`](https://github.com/stdlib-js/stdlib/commit/a74d773fe8fc148cc4bc7619e868624c2e499bc7) - add C implementation for `@stdlib/stats-base/dists/frechet/logcdf` [(#5517)](https://github.com/stdlib-js/stdlib/pull/5517)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3607](https://github.com/stdlib-js/stdlib/issues/3607)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`a74d773`](https://github.com/stdlib-js/stdlib/commit/a74d773fe8fc148cc4bc7619e868624c2e499bc7) - **feat:** add C implementation for `@stdlib/stats-base/dists/frechet/logcdf` [(#5517)](https://github.com/stdlib-js/stdlib/pull/5517) _(by Nishchay Rajput, Philipp Burckhardt)_
 -   [`fa15161`](https://github.com/stdlib-js/stdlib/commit/fa15161761664bbdd2123292d3f1d7cf2d0f0a6d) - **bench:** refactor random number generation in `stats/base/dists/frechet` [(#4922)](https://github.com/stdlib-js/stdlib/pull/4922) _(by Karan Anand, stdlib-bot)_
 
 </details>
@@ -24,9 +47,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Nishchay Rajput
+-   Philipp Burckhardt
 
 </section>
 
