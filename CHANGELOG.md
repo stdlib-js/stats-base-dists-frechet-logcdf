@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-31)
+## Unreleased (2025-05-06)
 
 <section class="features">
 
@@ -34,6 +34,8 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`f9ec3b6`](https://github.com/stdlib-js/stdlib/commit/f9ec3b6e86ad6c9feeb95cb6ed1a356af7f452b9) - **docs:** fix function names _(by Philipp Burckhardt)_
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`1b06282`](https://github.com/stdlib-js/stdlib/commit/1b062822bb11e83789fd3ff3c2ee3f0e8d663652) - **chore:** fix style and return values [(#5871)](https://github.com/stdlib-js/stdlib/pull/5871) _(by Anshu Kumar)_
 -   [`a74d773`](https://github.com/stdlib-js/stdlib/commit/a74d773fe8fc148cc4bc7619e868624c2e499bc7) - **feat:** add C implementation for `@stdlib/stats-base/dists/frechet/logcdf` [(#5517)](https://github.com/stdlib-js/stdlib/pull/5517) _(by Nishchay Rajput, Philipp Burckhardt)_
 -   [`fa15161`](https://github.com/stdlib-js/stdlib/commit/fa15161761664bbdd2123292d3f1d7cf2d0f0a6d) - **bench:** refactor random number generation in `stats/base/dists/frechet` [(#4922)](https://github.com/stdlib-js/stdlib/pull/4922) _(by Karan Anand, stdlib-bot)_
