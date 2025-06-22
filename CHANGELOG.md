@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-20)
+## Unreleased (2025-06-22)
 
 <section class="features">
 
@@ -20,6 +20,7 @@
 
 ### Bug Fixes
 
+-   [`00ca999`](https://github.com/stdlib-js/stdlib/commit/00ca999867e561c7075e93f6a19bd5c969cae0c0) - add missing dependencies to manifest
 -   [`74596d4`](https://github.com/stdlib-js/stdlib/commit/74596d4df6801d9176bd5027eb237497e9b078c0) - remove unused `eps` dependency from Frechet distribution manifests
 
 </section>
@@ -44,6 +45,8 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`00ca999`](https://github.com/stdlib-js/stdlib/commit/00ca999867e561c7075e93f6a19bd5c969cae0c0) - **fix:** add missing dependencies to manifest _(by Philipp Burckhardt)_
+-   [`c44ce1a`](https://github.com/stdlib-js/stdlib/commit/c44ce1a45796f6ff3b578612ec4b8d3594d8411d) - **docs:** update `stats/base/dists/frechet` examples to use Greek symbols _(by Philipp Burckhardt)_
 -   [`74596d4`](https://github.com/stdlib-js/stdlib/commit/74596d4df6801d9176bd5027eb237497e9b078c0) - **fix:** remove unused `eps` dependency from Frechet distribution manifests _(by Philipp Burckhardt)_
 -   [`f9ec3b6`](https://github.com/stdlib-js/stdlib/commit/f9ec3b6e86ad6c9feeb95cb6ed1a356af7f452b9) - **docs:** fix function names _(by Philipp Burckhardt)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
