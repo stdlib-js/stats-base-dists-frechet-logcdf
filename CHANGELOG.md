@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-11)
+## Unreleased (2025-08-20)
 
 <section class="features">
 
@@ -45,6 +45,10 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`776887e`](https://github.com/stdlib-js/stdlib/commit/776887e9577ae2402fd69c97328cb864811bd120) - **docs:** update annotation values _(by Philipp Burckhardt)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`00ca999`](https://github.com/stdlib-js/stdlib/commit/00ca999867e561c7075e93f6a19bd5c969cae0c0) - **fix:** add missing dependencies to manifest _(by Philipp Burckhardt)_
 -   [`c44ce1a`](https://github.com/stdlib-js/stdlib/commit/c44ce1a45796f6ff3b578612ec4b8d3594d8411d) - **docs:** update `stats/base/dists/frechet` examples to use Greek symbols _(by Philipp Burckhardt)_
 -   [`74596d4`](https://github.com/stdlib-js/stdlib/commit/74596d4df6801d9176bd5027eb237497e9b078c0) - **fix:** remove unused `eps` dependency from Frechet distribution manifests _(by Philipp Burckhardt)_
