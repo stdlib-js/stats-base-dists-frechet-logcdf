@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-09)
+## Unreleased (2026-06-11)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`cae5335`](https://github.com/stdlib-js/stdlib/commit/cae53357950b4c389b0020878c268995cd79d222) - **docs:** propagate develop fixes to sibling packages [(#12736)](https://github.com/stdlib-js/stdlib/pull/12736) _(by Philipp Burckhardt)_
 -   [`2ab835f`](https://github.com/stdlib-js/stdlib/commit/2ab835f6d0b8721ef7e604d7fdced904bed91443) - **docs:** refactor to use `logEachMap` in examples [(#11485)](https://github.com/stdlib-js/stdlib/pull/11485) _(by Lokesh Ranjan)_
 -   [`f5199d6`](https://github.com/stdlib-js/stdlib/commit/f5199d619314724b7b0627f41aba3114b559cec8) - **bench:** update random value generation for `stats/base/dists/frechet` [(#10317)](https://github.com/stdlib-js/stdlib/pull/10317) _(by Lokesh Ranjan, Philipp Burckhardt)_
 -   [`7b1ec1e`](https://github.com/stdlib-js/stdlib/commit/7b1ec1ee410f8c2a2e49d70bcf878e57ddb966d9) - **bench:** refactor to use string interpolation in `stats/base/dists/frechet` [(#10122)](https://github.com/stdlib-js/stdlib/pull/10122) _(by Shubham)_
